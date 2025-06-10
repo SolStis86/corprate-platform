@@ -1,0 +1,5 @@
+1. Link this repo to your Plesk instance
+2. Push changes to deploy
+3. Keep scorecards updated in /scorecards/
+4. Posters and assets go in /public/assets/
+5. Edit index.html and scripts/ as needed
